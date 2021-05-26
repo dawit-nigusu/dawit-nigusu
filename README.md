@@ -2,6 +2,7 @@
 
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter] -->
+[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
 [![Linkedin: DawitNigusu](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/dawit-nigusu-%F0%9F%87%AA%F0%9F%87%B9-a2a0b9117/)][linkedin]
 
 - 🔭 &ensp;I’m currently working at FAO of UN as Lead Developer!
@@ -11,16 +12,11 @@
 - ⚡ &ensp;Fun fact: I love reading
 <!-- - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email] -->
 
-### Connect With Me
-
-
 [twitter]: https://twitter.com/NigusuDave
 [linkedin]: https://www.linkedin.com/in/dawit-nigusu-%F0%9F%87%AA%F0%9F%87%B9-a2a0b9117/
 [github]: https://github.com/dawit-nigusu
 [email]: mailto:dawitnigusu17@gmail.com
 
-[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
 
 <br />
 <br />
