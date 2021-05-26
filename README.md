@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/dawit-nigusu-%F0%9F%87%AA%F0%9F%87%B9-a2a0b9117/">Dawit Nigusu!</a></h1>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter] -->
 [![Linkedin: DawitNigusu](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/dawit-nigusu-%F0%9F%87%AA%F0%9F%87%B9-a2a0b9117/)][linkedin]
 
 - 🔭 &ensp;I’m currently working at FAO of UN as Lead Developer!
