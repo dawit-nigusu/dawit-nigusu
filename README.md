@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Dawit, Welcome to my Repo
+🔭 I’m currently working as Lead Full Stack Developer at FAO of UN
 <!--
 **dawit-nigusu/dawit-nigusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
