@@ -8,10 +8,10 @@
   <img align="left" alt="Dawit Nigusu | Stack Overflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"/>
 </a>
 
-- 🔭 &ensp;I’m currently working at FAO of UN as Lead Developer!
+- 🔭 &ensp;I’m Senior Full stack developer currently working at Scholastic!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other developers out there
-- 🗿 &ensp;I am one of few programmers from Ethiopia lol
+- 🗿 &ensp;I am one of few senior programmers from Ethiopia lol
 - ⚡ &ensp;Fun fact: I love reading
 <!-- - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email] -->
 
